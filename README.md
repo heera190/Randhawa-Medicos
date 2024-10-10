@@ -2,6 +2,12 @@
 
 Randhawa Medicos is a learning project where a user-side Android app helps manage inventory. The backend is powered by APIs built with Flask.
 
+## **Disclaimer**
+This project is intended for learning purposes only. It is not designed with security considerations and is not suitable for use in production environments.
+
+## **Screenshots**
+Here are some screenshots of the application for your reference.
+
 ![WhatsApp Image 2024-10-10 at 14 06 33](https://github.com/user-attachments/assets/a174d9e1-9c0d-467e-b096-14736d7878d1)
 ![WhatsApp Image 2024-10-10 at 14 06 33 (2)](https://github.com/user-attachments/assets/e64c1f58-9c8c-4847-95e7-2c35d36e1bf6)
 ![WhatsApp Image 2024-10-10 at 14 06 33 (1)](https://github.com/user-attachments/assets/3452e54d-8d4e-4a6b-9823-a286e29a8a14)
