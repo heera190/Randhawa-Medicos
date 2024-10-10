@@ -10,7 +10,7 @@ import retrofit2.http.Query
 interface API_Builder {
 
     companion object {
-       const val BASE_URL = "https://heera190.pythonanywhere.com/"
+       const val BASE_URL = "https://your.url.com"
     }
 
     @FormUrlEncoded
